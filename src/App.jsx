@@ -11,7 +11,7 @@ const ScholarConnectWebsite = () => {
   const scholars = [
     {
       id: 1,
-      name: "Dr. Margaret Thompson",
+      name: "Dr. Margaret Thompso",
       title: "Retired Mathematics Professor",
       expertise: ["Advanced Calculus", "Statistics", "Linear Algebra"],
       rating: 4.9,
